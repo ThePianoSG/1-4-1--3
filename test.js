@@ -13,4 +13,12 @@ ffmpeg -protocol_whitelist "file,http,https,tcp,tls" -i index2.m3u8 -c copy outp
 
 src="https://cdnapisec.kaltura.com/p/2082311/sp/208231100/playManifest/protocol/https/entryId/1_rqmmv3sn/format/applehttp/tags/web_hd/f/a.m3u8?clientTag=html5:v1.2.1&playSessionId=0984e17a-c200-720c-8468-fa23493260b0:23acb760-ce27-14c3-a5ff-66373bd9162a"
 
+
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.1"
+
+    
 */
